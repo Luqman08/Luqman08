@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Luqman Hakim Bin Mohd Rizaudin</h1>
-<h3 align="left">I'm currently studying at Universiti Teknologi Malaysia as a 1st-year Data Engineering student. I'm still learning all about the things that needed to be a full time developer.</h3>
+<h3 align="left">I'm currently studying at Universiti Teknologi Malaysia as a 3rd-year Data Engineering student. I'm still learning all about the things that needed to be a full time developer.</h3>
 
-- 🌱 I’m currently learning **object oriented programming and web development.**
+- 🌱 I’m currently learning **Application Development.**
 
 - 📫 How to reach me. This is my personal email **lqmanh24@gmail.com**
 
